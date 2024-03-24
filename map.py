@@ -1,13 +1,22 @@
 import folium
 
-def create_world_map():
-    # Create a map object centered at (0, 0) with zoom level 2
-    world_map = folium.Map(location=[16.16666666, 107.83333333], zoom_start=2)
+# Latitude and longitude coordinates
+locations = [
+    {"latitude": 18.43138300, "longitude": -64.6230},
+    {"latitude": 20.00000000, "longitude": 77.00000000}
+]
 
-    # Save the map to an HTML file
-    world_map.save("world_map.html")
+# Create a map centered at a specific location
+mymap = folium.Map(location=[0, 0], zoom_start=2)
 
-    print("World map created and saved as world_map.html")
+# Add markers for each location
+for loc in locations:
+    folium.Marker(
+        location=[loc["latitude"], loc["longitude"]],
+        popup=f'Latitude: {loc["latitude"]}, Longitude: {loc["longitude"]}'
+    ).add_to(mymap)
 
-# Create the world map
-create_world_map()
+# Save the map to an HTML file
+mymap.save("world_map.html")
+
+print("Map created successfully. Open 'world_map.html' to view.")
