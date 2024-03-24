@@ -17,6 +17,24 @@
         "subregion": "Southern Asia",
         "subregion_id": "14",
         "nationality": "Afghan"
-        "flag": "https://restcountries.com/data/afg.svg"
     },
+    {
+    
+        "id": 2,
+        "country_name": "Albania",
+        "iso3": "ALB",
+        "iso2": "AL",
+        "numeric_code": "008",
+        "phone_code": "355",
+        "capital": "Tirana",
+        "currency": "ALL",
+        "currency_name": "Albanian lek",
+        "currency_symbol": "L",
+        "tld": ".al",
+        "native": "Shqipëria",
+        "region": "Europe",
+        "region_id": "1",
+        "subregion": "Southern Europe",
+        "subregion_id": "39",
+    }
 ]
