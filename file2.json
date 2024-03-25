@@ -9,13 +9,13 @@
         "capital": "Kabul",
         "currency": "AFN",
         "currency_name": "Afghan afghani",
-        "currency_symbol": "؋",
         "tld": ".af",
+        "currency_symbol": "؋",
+        "subregion_id": "14",
         "native": "افغانستان",
         "region": "Asia",
         "region_id": "3",
         "subregion": "Southern Asia",
-        "subregion_id": "14",
         "nationality": "Afghan"
-    },
+    }
 ]
