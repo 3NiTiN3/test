@@ -1,21 +1,9 @@
 [
     {
-        "id": 1,
-        "country_name": "Afghanistan",
-        "iso3": "AFG",
-        "iso2": "AF",
-        "numeric_code": "004",
-        "phone_code": "93",
-        "capital": "Kabul",
-        "currency": "AFN",
-        "currency_name": "Afghan afghani",
-        "tld": ".af",
-        "currency_symbol": "؋",
-        "subregion_id": "14",
-        "native": "افغانستان",
-        "region": "Asia",
-        "region_id": "3",
-        "subregion": "Southern Asia",
-        "nationality": "Afghan"
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4",
+        "E": "5"
     }
 ]

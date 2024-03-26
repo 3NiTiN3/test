@@ -1,40 +1,8 @@
 [
     {
-        "id": 1,
-        "country_name": "Afghanistan",
-        "iso3": "AFG",
-        "iso2": "AF",
-        "numeric_code": "004",
-        "phone_code": "93",
-        "capital": "Kabul",
-        "currency": "AFN",
-        "currency_name": "Afghan afghani",
-        "currency_symbol": "؋",
-        "tld": ".af",
-        "native": "افغانستان",
-        "region": "Asia",
-        "region_id": "3",
-        "subregion": "Southern Asia",
-        "subregion_id": "14",
-        "nationality": "Afghan"
-    },
-    {
-    
-        "id": 2,
-        "country_name": "Albania",
-        "iso3": "ALB",
-        "iso2": "AL",
-        "numeric_code": "008",
-        "phone_code": "355",
-        "capital": "Tirana",
-        "currency": "ALL",
-        "currency_name": "Albanian lek",
-        "currency_symbol": "L",
-        "tld": ".al",
-        "native": "Shqipëria",
-        "region": "Europe",
-        "region_id": "1",
-        "subregion": "Southern Europe",
-        "subregion_id": "39",
+         "D": "4",
+         "C": "6",
+         "B": "2",
+         "A": "8"
     }
 ]
